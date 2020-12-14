@@ -426,7 +426,7 @@ inoremap # X<C-H>#
 set t_Co=256
 
 " Default Color Scheme
-colorscheme goerz
+colorscheme ablech
 " it's better to set the background after loading the colorscheme, as some
 " colorschemes perform a reset of &bg.
 set background=light
